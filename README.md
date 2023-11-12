@@ -4,7 +4,7 @@
 
 ## R Packages for Advanced Statistical Analysis
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=egpivo&repo=SpatPCA&theme=dracula)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BoShiangKe&repo=influenceAUC&theme=dracula)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=egpivo&repo=SpatMCA&theme=dracula)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=egpivo&repo=autoFRK&theme=dracula)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BoShiangKe&repo=influenceAUC&theme=dracula)
 
